@@ -23,6 +23,26 @@ canvas {
     max-height: 100%;
 }
 
+.pausebutton {
+    margin: 5px;
+    border: none;
+    outline: none;
+    background: none;
+    transition: transform 0.3s ease-in-out;
+    cursor: pointer;
+    background-image: none;
+    color: #fff;
+    border:none;
+    border-radius: 20px/50px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.3s ease-out;
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+
 #container-canvas{
     position: relative;
     display: inline-block;      

@@ -76,12 +76,9 @@ class CitiesSlider extends React.Component {
 
 const slides = [
 {
-  city: 'Paris',
-  country: 'France',
-  img: 'https://64.media.tumblr.com/5d37ab2aa782462c7aa092f7bd0d27cb/2f374d07287b003b-f4/s1280x1920/fe094893d79e09d668e1705e8b9144964f38ce75.gifv' },
+  img: 'assets/gif/gifpedang2.webp' },
 
 {
-  city: 'Singapore',
   img: 'assets/gif/gifpedang.webp' }];
 
 
